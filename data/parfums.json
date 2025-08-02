@@ -1,0 +1,175 @@
+{
+  "parfums": [
+    {
+      "id": "7",
+      "name": "1970",
+      "brand": "Fordive",
+      "category": "Oriental Woody",
+      "gender": "Men",
+      "notes": {
+        "top": ["Pink Pepper", "Juniper", "Violet", "Grapefruit"],
+        "middle": ["Cinnamon", "Sage", "Vanilla"],
+        "base": ["Amber", "Tonka Bean", "Toffee", "Oak"]
+      },
+      "description": "Kombinasi rempah dan kayu yang menghasilkan aroma maskulin, elegan dan tahan lama. Dipadukan dengan sentuhan manis dan kehangatan amber yang cocok untuk momen romantis",
+      "price_range": "medium",
+      "longevity": "6-8 hours",
+      "sillage": "moderate-heavy",
+      "season": "fall-winter",
+      "occasion": "romantic-formal",
+      "year_released": 2022
+    },
+    {
+      "id": "8",
+      "name": "Shelby",
+      "brand": "Fordive",
+      "category": "Amber Woody",
+      "gender": "Men",
+      "notes": {
+        "top": ["Grapefruit", "Quince", "Fresh Notes"],
+        "middle": ["Amber", "Woody Notes", "Spices"],
+        "base": ["Woody Base", "Amber", "Musk"]
+      },
+      "description": "Parfum dengan karakter bad boy yang dibuat menjadi aroma. Kombinasi sempurna antara amber & woody dengan kesegaran quince & grapefruit yang menciptakan karakter Shelby",
+      "price_range": "medium",
+      "longevity": "6-8 hours",
+      "sillage": "moderate",
+      "season": "all",
+      "occasion": "casual-sporty",
+      "year_released": 2023
+    },
+    {
+      "id": "9",
+      "name": "Royal",
+      "brand": "Fordive",
+      "category": "Oriental Woody",
+      "gender": "Men",
+      "notes": {
+        "top": [" ", "Fresh Spices", "Bergamot"],
+        "middle": ["Woody Notes", "Floral", "Spices"],
+        "base": ["Sandalwood", "Amber", "Musk", "Woody Base"]
+      },
+      "description": "Parfum dengan tagline 'Crowned with Elegance' yang mengajak Anda merasakan pesona Kerajaan Majapahit. Royal mengantarkan Anda ke era kemegahan dengan mahkota keanggunan",
+      "price_range": "medium",
+      "longevity": "6-8 hours",
+      "sillage": "moderate-heavy",
+      "season": "all",
+      "occasion": "formal-luxury",
+      "year_released": 2024
+    },
+    {
+      "id": "10",
+      "name": "Feeling Good",
+      "brand": "Fordive",
+      "category": "Fruity Floral",
+      "gender": "Women",
+      "notes": {
+        "top": ["Raspberry", "Peony"],
+        "middle": ["Floral", "Candy", "Amber"],
+        "base": ["Praline", "Musk", "Floral"]
+      },
+      "description": "Parfum yang sexy, fun & menenangkan. Dipadukan dengan kualitas terbaik dari Peony, Praline, Raspberry & Amber. Pilihan terbaik untuk memberikan kesan pada seseorang yang spesial",
+      "price_range": "medium",
+      "longevity": "6-8 hours",
+      "sillage": "moderate",
+      "season": "spring-summer",
+      "occasion": "casual-romantic",
+      "year_released": 2020
+    },
+    {
+      "id": "11",
+      "name": "Utopia",
+      "brand": "Fordive",
+      "category": "Fresh Woody",
+      "gender": "Unisex",
+      "notes": {
+        "top": ["Rhubarb", "Grapefruit", "Fresh Notes"],
+        "middle": ["Floral", "Green Notes", "Spices"],
+        "base": ["Woody Notes", "Musk", "Amber"]
+      },
+      "description": "Parfum dengan perpaduan sempurna antara elemen segar dan hangat. Ketika Anda menyemprotkan parfum ini, Anda akan langsung disambut oleh aroma top yang memikat",
+      "price_range": "medium",
+      "longevity": "6-8 hours",
+      "sillage": "moderate",
+      "season": "all",
+      "occasion": "casual-daily",
+      "year_released": 2024
+    },
+    {
+      "id": "12",
+      "name": "Atlantis",
+      "brand": "Fordive",
+      "category": "Aquatic Fresh",
+      "gender": "Unisex",
+      "notes": {
+        "top": ["Marine Notes", "Fresh Citrus", "Aquatic"],
+        "middle": ["Sea Breeze", "Floral", "Green Notes"],
+        "base": ["Musk", "Woody Notes", "Amber"]
+      },
+      "description": "Parfum dengan karakter aquatic yang menyegarkan, terinspirasi dari kedalaman samudra dengan kesegaran yang tahan lama",
+      "price_range": "medium",
+      "longevity": "5-7 hours",
+      "sillage": "moderate",
+      "season": "spring-summer",
+      "occasion": "casual-daily",
+      "year_released": 2021
+    },
+    {
+      "id": "13",
+      "name": "Majestic",
+      "brand": "Fordive",
+      "category": "Oriental Spicy",
+      "gender": "Unisex",
+      "notes": {
+        "top": ["Spices", "Citrus", "Fresh Notes"],
+        "middle": ["Floral", "Woody", "Amber"],
+        "base": ["Sandalwood", "Musk", "Vanilla"]
+      },
+      "description": "Parfum dengan karakter oriental yang mewah dan berkelas, memberikan kesan majestic dan elegan untuk pemakaiannya",
+      "price_range": "medium",
+      "longevity": "7-9 hours",
+      "sillage": "moderate-heavy",
+      "season": "fall-winter",
+      "occasion": "formal-luxury",
+      "year_released": 2022
+    },
+    {
+      "id": "14",
+      "name": "Love Yourself",
+      "brand": "Fordive",
+      "category": "Floral Fruity",
+      "gender": "Women",
+      "notes": {
+        "top": ["Fruity Notes", "Fresh Citrus", "Floral"],
+        "middle": ["Rose", "Jasmine", "Sweet Notes"],
+        "base": ["Musk", "Vanilla", "Woody Notes"]
+      },
+      "description": "Parfum yang mengajak untuk mencintai diri sendiri dengan aroma floral fruity yang mempesona dan memberikan rasa percaya diri",
+      "price_range": "medium",
+      "longevity": "6-8 hours",
+      "sillage": "moderate",
+      "season": "all",
+      "occasion": "casual-daily",
+      "year_released": 2020
+    },
+    {
+      "id": "15",
+      "name": "Miracle in Scent",
+      "brand": "Fordive",
+      "category": "Oriental Floral",
+      "gender": "Unisex",
+      "notes": {
+        "top": ["Fresh Notes", "Citrus", "Spices"],
+        "middle": ["Floral Bouquet", "Exotic Spices", "Amber"],
+        "base": ["Sandalwood", "Musk", "Vanilla"]
+      },
+      "description": "Parfum terbaru dengan komposisi yang menciptakan keajaiban dalam setiap semprotan, memberikan pengalaman olfactory yang tak terlupakan",
+      "price_range": "medium",
+      "longevity": "7-9 hours",
+      "sillage": "moderate-heavy",
+      "season": "all",
+      "occasion": "special-luxury",
+      "year_released": 2025
+    }
+  ]
+}
