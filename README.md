@@ -1,8 +1,8 @@
-# 🌺 AI Parfum Consultant MVP
+# AI Parfum Consultant MVP
 
 Terminal-based AI Parfum Consultant yang menggunakan DeepSeek API untuk memberikan rekomendasi parfum personal, menjawab pertanyaan seputar fragrance, dan membandingkan produk parfum.
 
-## 🎯 Overview
+## Overview
 
 Aplikasi ini adalah MVP (Minimum Viable Product) untuk konsultan parfum berbasis AI yang dirancang untuk:
 - Membantu pengguna menemukan parfum yang sesuai dengan preferensi mereka
@@ -10,7 +10,7 @@ Aplikasi ini adalah MVP (Minimum Viable Product) untuk konsultan parfum berbasis
 - Membandingkan karakteristik berbagai parfum
 - Mengelola database parfum secara efisien
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Architecture](#-architecture--code-flow)
@@ -24,34 +24,34 @@ Aplikasi ini adalah MVP (Minimum Viable Product) untuk konsultan parfum berbasis
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
 
-## ✨ Features
+## Features
 
-### 🎯 **AI-Powered Recommendations**
+### **AI-Powered Recommendations**
 - Analisis preferensi pengguna berdasarkan gender, occasion, season, dan budget
 - Rekomendasi personal menggunakan DeepSeek AI
 - Penjelasan detail mengapa parfum tertentu cocok
 
-### ❓ **Q&A System**
+### **Q&A System**
 - Tanya jawab interaktif tentang dunia parfum
 - Informasi tentang fragrance notes, brands, dan tips penggunaan
 - AI context-aware dengan database parfum internal
 
-### ⚖️ **Parfum Comparison**
+### **Parfum Comparison**
 - Perbandingan side-by-side antara dua parfum
 - Analisis notes, longevity, sillage, dan occasion
 - Rekomendasi untuk target pengguna yang berbeda
 
-### 🔍 **Smart Search & Browse**
+### **Smart Search & Browse**
 - Pencarian berdasarkan nama, brand, atau kategori
 - Filter berdasarkan gender, price range, season
 - Display tabel yang informatif dan mudah dibaca
 
-### 📊 **Database Management**
+### **Database Management**
 - CRUD operations lengkap untuk data parfum
 - Backup dan restore database
 - Statistik dan analytics database
 
-## 🏗️ Architecture & Code Flow
+## Architecture & Code Flow
 
 ```mermaid
 graph TD
@@ -80,7 +80,7 @@ graph TD
     N --> P[Backup/Stats]
 ```
 
-### 🔄 **Application Flow**
+### **Application Flow**
 
 1. **Initialization**
    - Load environment variables (.env)
@@ -99,7 +99,7 @@ graph TD
    - In-memory caching for performance
    - Backup system for data protection
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -175,7 +175,7 @@ npm start
    - Detailed explanations
    - Alternative suggestions
 
-### ❓ **Q&A System**
+### **Q&A System**
 
 **Example Questions:**
 ```
